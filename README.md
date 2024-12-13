@@ -1,3 +1,5 @@
+![Chatbot Screenshot](https://example.com/path/to/screenshot.png)
+
 ```markdown
 # Flask Chatbot
 
