@@ -1,4 +1,4 @@
-![Chatbot Screenshot](https://example.com/path/to/screenshot.png)
+![Chatbot Screenshot](https://github.com/IT21313370/rule_based_chatbot/blob/master/static/Screenshot%202024-12-13%20105107.png)
 
 ```markdown
 # Flask Chatbot
