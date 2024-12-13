@@ -1,4 +1,7 @@
-![Chatbot Screenshot](https://github.com/IT21313370/rule_based_chatbot/blob/master/static/Screenshot%202024-12-13%20105107.png)
+<p align="center">
+  <img src="https://github.com/IT21313370/rule_based_chatbot/blob/master/static/Screenshot%202024-12-13%20105107.png" alt="Chatbot Screenshot" />
+</p>
+
 
 ```markdown
 # Flask Chatbot
