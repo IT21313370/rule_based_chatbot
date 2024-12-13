@@ -1,5 +1,3 @@
-Here’s a simple **README.md** template for your Flask chatbot project, which you can use for your GitHub repository:
-
 ```markdown
 # Flask Chatbot
 
